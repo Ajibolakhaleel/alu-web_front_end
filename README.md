@@ -1,2 +1,2 @@
 # alu-web_front_end
-learning frontend
+learning frontend advnced
