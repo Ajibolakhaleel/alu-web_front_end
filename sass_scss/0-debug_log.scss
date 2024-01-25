@@ -1,5 +1,4 @@
-$message: "Hello world";
+// hello_world.scss
 
-body{
-    @debug $message;
-}
+$message: "Hello world";
+@debug $message;
