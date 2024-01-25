@@ -1,2 +1,5 @@
-$hello: "Hello world";
-@debug $hello;
+$message: "Hello world";
+
+body{
+    @debug $message;
+}
